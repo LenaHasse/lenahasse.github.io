@@ -379,3 +379,9 @@ section.reveal.in-view {
   font-size: 0.9rem;
   color: var(--muted);
 }
+
+/* Dodatek do wyeksponowania elementów */
+.item p strong {
+  color: var(--accent-strong);
+  font-weight: 600;
+}
